@@ -32,6 +32,9 @@ header {
     width: 60%;
 }
 
+.bio:hover {
+    transform: scale(1.05);
+}
 
 .header_right {
     width: 35%;
